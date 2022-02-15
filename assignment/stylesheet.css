@@ -1,0 +1,18 @@
+.shopName {
+  background-color: darkblue;
+  text-align: center;
+}
+
+h1, h2 {
+  color: white;
+}
+
+.notSureYet {
+  background-color: lightgrey;
+  padding: 1em;
+}
+
+body {
+  margin: 0;
+  background-image: url(record.png);
+}
