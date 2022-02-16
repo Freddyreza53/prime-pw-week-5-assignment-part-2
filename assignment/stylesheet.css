@@ -1,18 +1,22 @@
-.shopName {
-  background-color: darkblue;
+body {
+  margin: 0;
+  background-image: url(record.png);
   text-align: center;
 }
 
-h1, h2 {
-  color: white;
+.myShop {
+    background-color: darkblue;
 }
 
-.notSureYet {
+.mainPara {
   background-color: lightgrey;
   padding: 1em;
 }
 
-body {
-  margin: 0;
-  background-image: url(record.png);
+.white-text {
+  color: white;
+}
+
+#black-text {
+  color: black;
 }
